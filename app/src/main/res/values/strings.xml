@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">SportquizApp</string>
+
+
+    <!-- Header text for the quiz  -->
+    <string name="quiz_title">SPORT QUIZ</string>
+
+    <!-- Title body, explanation  -->
+    <string name="title_body"> Do you lıke sports?</string>
+
+    <!-- Title: question 1  -->
+    <string name="question_1">Question 1</string>
+    <!-- Question body text 1  -->
+    <string name="question_body_1">Boxing matches are held in a boxing ?</string>
+    <!-- Answers a for Question 1  -->
+    <string name="answer_1a">Square</string>
+    <!-- Answers b for Question 1 -->
+    <string name="answer_1b">Ring</string>
+    <!-- Answers c for Question 1  -->
+    <string name="answer_1c">Court</string>
+    <!-- Answers d for Question 1  -->
+    <string name="answer_1d">Parquet</string>
+
+    <!-- Title: question 2 -->
+    <string name="question_2">Question 2</string>
+    <!-- Question body text 2  -->
+    <string name="question_body_2">The multiple Olympic-medal winning runner Usain Bolt was born in ?</string>
+    <!-- Answers a for Question 2  -->
+    <string name="answer_2a">England</string>
+    <!-- Answers b for Question 2  -->
+    <string name="answer_2b">Jamaica</string>
+    <!-- Answers c for Question 2  -->
+    <string name="answer_2c">The USA</string>
+    <!-- Answers d for Question 2  -->
+    <string name="answer_2d">Papua New Guinea</string>
+
+    <!-- Title: question 3 -->
+    <string name="question_3">Question 3</string>
+    <!-- Question body text 3  -->
+    <string name="question_body_3">Which sport did Australias Sir Donald Bradman play ?</string>
+    <!-- Answers a for Question 3  -->
+    <string name="answer_3a">Cricket</string>
+    <!-- Answers b for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3b"> Golf</string>
+    <!-- Answers c for Question 3  -->
+    <string name="answer_3c">Tennis</string>
+
+    <!-- Title: question 4 -->
+    <string name="question_4">Question 4</string>
+    <!-- Question body text 4  -->
+    <string name="question_body_4">In which sport can you get a birdie, a bogey or a hole-in-one ?</string>
+    <!-- Answers a for Question 4  -->
+    <string name="answer_4a">Hockey</string>
+    <!-- Answers b for Question 4  -->
+    <string name="answer_4b">Golf</string>
+    <!-- Answers c for Question 4 -->
+    <string name="answer_4c">Basketball</string>
+
+    <!-- Title: question 5  -->
+    <string name="question_5">Question 5</string>
+    <!-- Question body text 5  -->
+    <string name="question_body_5">Michael Jordan spent most of his career playing for the</string>
+    <!-- Answers a for Question 5 -->
+    <string name="answer_5a">Chicago Bulls</string>
+    <!-- Answers b for Question 5 -->
+    <string name="answer_5b">San Antonio Spurs</string>
+    <!-- Answers c for Question 5  -->
+    <string name="answer_5c">LA Lakers</string>
+
+    <!-- Title: question 6  -->
+    <string name="question_6">Question 6</string>
+    <!-- Question body text 6  -->
+    <string name="question_body_6">Which of these footballers retired with fewer than 100 international caps?</string>
+    <!-- Answers a for Question 6  -->
+    <string name="answer_6a">Andrea Pirlo</string>
+    <!-- Answers b for Question 6  -->
+    <string name="answer_6b">Frank Lampard</string>
+    <!-- Answers c for Question 6  -->
+    <string name="answer_6c">Francesco Totti</string>
+    *
+
+    <!-- Title: question 7  -->
+    <string name="question_7">Question 7</string>
+    <!-- Question body text 7 -->
+    <string name="question_body_7">Who was the winner when two double Olympic champions met in the ring as professionals?</string>
+    <!-- Answers a for Question 7  -->
+    <string name="answer_7a">Anthony Joshua</string>
+    <!-- Answers b for Question 7  -->
+    <string name="answer_7b">Vasyl Lomachenko</string>
+    *
+    <!-- Answers c for Question 7  -->
+    <string name="answer_7c">Billy Joe Saunders</string>
+
+    <!-- Title: question 8  -->
+    <string name="question_8">Question 8</string>
+    <!-- Question body text 8  -->
+    <string name="question_body_8">How many points did England score in the Rugby League World Cup final?</string>
+    <!-- Answers a for Question 8  -->
+    <string name="answer_8a">None</string>
+    *
+    <!-- Answers b for Question 8  -->
+    <string name="answer_8b">One</string>
+    <!-- Answers c for Question 8  -->
+    <string name="answer_8c">Ten</string>
+
+    <!-- Title: question 9  -->
+    <string name="question_9">Question 9</string>
+    <!-- Question body text 9  -->
+    <string name="question_body_9">Who described their job as “90% aggravation and 10% top satisfaction – and you have to give everything in your life for that"?</string>
+    <!-- Answers a for Question 9  -->
+    <string name="answer_9a">Floyd Mayweather</string>
+    <!-- Answers b for Question 9  -->
+    <string name="answer_9b">Nicola Adams</string>
+    <!-- Answers c for Question 9 -->
+    <string name="answer_9c">Arsène Wenger</string>
+    *
+
+    <!-- Title: question 10 -->
+    <string name="question_10">Question 10</string>
+    <!-- Question body text 10  -->
+    <string name="question_body_10">Which teams won the UEFA Cup ?</string>
+    <!-- Answers a for Question 10  -->
+    <string name="answer_10a">Sevilla FC</string>
+    <!-- Answers b for Question 1  -->
+    <string name="answer_10b">Beşikta JK</string>
+    <!-- Answers c for Question 1  -->
+    <string name="answer_10c">Leicester city</string>
+    <!-- Answers d for Question 1  -->
+    <string name="answer_10d">Galarasaray SK</string>
+
+    <!-- Title: question 11  -->
+    <string name="question_11">Question 11</string>
+    <!-- Question body text 11  -->
+    <string name="question_body_11">What is your name? (Dont worry, nothing will happen. Just curious.)</string>
+    <!-- Answers d for Question 1  -->
+    <string name="answer_11">Please type your Name here</string>
+
+    <!-- Button Submit  -->
+    <string name="submit">Submit your answers</string>
+    <!-- Text before submit button -->
+    <string name="submit_text">Are you sure you done? Please click "Submit" button to show the result</string>
+    <string name="result_0_40">Youre J.Vardy!</string>
+    <string name="result_50_60">Youre K.Benzema!</string>
+    <string name="result_70_90">Youre Messi!</string>
+    <string name="result_90_100">Youre C.Ronaldo!</string>
+
+
+</resources>
